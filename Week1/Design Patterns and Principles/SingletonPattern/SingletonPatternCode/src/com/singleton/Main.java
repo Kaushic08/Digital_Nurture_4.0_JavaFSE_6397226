@@ -8,6 +8,6 @@ public class Main {
         Logger l2 = Logger.getInstance();
         l2.log("World");
 
-        System.out.println(l1 == l2); // true
+        System.out.println(l1 == l2); 
     }
 }
